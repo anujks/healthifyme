@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#C62828</color>
+    <color name="colorAccent">#F44336</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+        <color name="bg_item_normal_state">#fff0f0f0</color>
+        <color name="bg_item_dragging_state">#ffffdddd</color>
+        <color name="bg_item_dragging_active_state">#ffff9999</color>
+        <color name="bg_item_swiping_state">#ffddddff</color>
+        <color name="bg_item_swiping_active_state">#ff9999ff</color>
+
+        <color name="bg_group_item_normal_state">#ffffff</color>
+        <color name="bg_group_item_normal_pressed_state">#EEEEEE</color>
+        <color name="bg_group_item_expanded_state">#EEEEEE</color>
+        <color name="bg_group_item_expanded_pressed_state">#EEEEEE</color>
+        <color name="bg_group_item_dragging_state">#ffeeccff</color>
+        <color name="bg_group_item_dragging_active_state">#ffee99ff</color>
+        <color name="bg_group_item_swiping_state">#ffddccff</color>
+        <color name="bg_group_item_swiping_active_state">#ffbb99ff</color>
+
+        <color name="snackbar_action_color_done">#ffccccff</color>
+
+        <color name="expandable_item_indicator_color">#EEEEEE</color>
+</resources>
